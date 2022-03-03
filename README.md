@@ -2,7 +2,7 @@
 [Nanodegree-Program-link](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
 
 The Udacity Nanodegree Graduation [Certificate](https://graduation.udacity.com/confirm/GHDGN6FZ) 🥰❤️🧑‍🎓
-i[](Graduation_Certificate.jpg])
+![](Graduation_Certificate.jpg])
 
 
 
