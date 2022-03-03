@@ -8,13 +8,14 @@ The Udacity Nanodegree Graduation [Certificate](https://graduation.udacity.com/c
 
 
 This Nanodegree help to learn very valuable different topics related to Data Engineering. which helps to design data models, build data warehouses and data lakes, automate data pipelines, and work with massive datasets. At the end of the program, we’ll combine our new skills by completing a capstone project.
-Educational Objectives: we will learn 
-• Create user-friendly relational and NoSQL data models
-• Create scalable and efficient data warehouses
-• Work efficiently with massive datasets 
-• Build and interact with a cloud-based data lake 
-• Automate and monitor data pipelines
-• Develop proficiency in Spark, Airflow, and AWS tools
+Educational Objectives: we will learn the following:
+
+* Create user-friendly relational and NoSQL data models
+* Create scalable and efficient data warehouses
+* Work efficiently with massive datasets 
+* Build and interact with a cloud-based data lake 
+* Automate and monitor data pipelines
+* Develop proficiency in Spark, Airflow, and AWS tools
 
 The Syllabus is [here](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Data+Engineering+Nanodegree+Program+Syllabus.pdf)
 
