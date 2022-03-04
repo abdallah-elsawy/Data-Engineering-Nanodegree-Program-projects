@@ -1,4 +1,8 @@
 # Data-Engineering-Nanodegree-Program-projects
+# Connect with me! 💼
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abdallah-el-sawy/)
+
+
 [Nanodegree-Program-link](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
 
 The Udacity Nanodegree Graduation [Certificate](https://graduation.udacity.com/confirm/GHDGN6FZ) 🥰❤️🧑‍🎓
